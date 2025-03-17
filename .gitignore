@@ -1,0 +1,23 @@
+# Ігноруємо віртуальне середовище
+.venv/
+venv/
+
+# Кеш-файли Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Лог-файли та середовище
+*.log
+*.env
+.env
+
+# Кеш VS Code та IDE
+.vscode/
+.idea/
+
+# Файли OS (якщо раптом є)
+.DS_Store
+Thumbs.db
+
